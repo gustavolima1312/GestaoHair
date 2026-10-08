@@ -29,3 +29,7 @@ O GestãoHair é um sistema desktop para auxiliar o gerenciamento de um salão d
 - Cadastro e consulta de agendamentos.
 - Integração com banco de dados MySQL.
 - Resumo quantitativo dos registros cadastrados.
+
+## Banco de dados
+
+O sistema utiliza MySQL para armazenar clientes, produtos e agendamentos.
